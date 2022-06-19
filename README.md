@@ -1,7 +1,7 @@
 <h3>Project name:</h3>
 <h2> printf</h2>
 
-<p><img src="https://github.com/RatmirW/RatmirW/blob/main/images/job-seeking2.png" height="32" hspace="10"/><b>Project description:</b></p>
+<p><img src="https://github.com/RatmirW/RatmirW/blob/main/images/job-seeking2.png" height="32" hspace="10" vspace="10"/><b>Project description:</b></p>
 This exercise is a great opportunity to improve your programming skills. It will introduce you to variadic functions in C. The key to the success of ft_printf is well-structured and extensible code.
 
 <p><img src="https://github.com/RatmirW/RatmirW/blob/main/images/task2.png" height="32"/><b>Task:</b></p>
