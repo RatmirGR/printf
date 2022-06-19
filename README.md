@@ -5,7 +5,8 @@
 This exercise is a great opportunity to improve your programming skills. It will introduce you to variadic functions in C. The key to the success of ft_printf is well-structured and extensible code.
 
 <b>Task:</b>
-<p>You have to recode the printf() function from libc. The prototype of ft_printf() is: int ft_printf(const char *, ...);</p>
+<p>You have to recode the printf() function from libc. The prototype of ft_printf() is:</p>
+  <p>• int ft_printf(const char *, ...);</p>
 
 <p>Here are the requirements:</p>
 <p>• Don’t implement the buffer management of the original printf().</p>
