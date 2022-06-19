@@ -1,10 +1,10 @@
 <h3>Project name:</h3>
 <h2> printf</h2>
 
-<p>Project description:</p>
+<p><ins>Project description:</ins></p>
 This exercise is a great opportunity to improve your programming skills. It will introduce you to variadic functions in C. The key to the success of ft_printf is well-structured and extensible code.
 <p></p>
-<p>Task:</p>
+<p><ins>Task:</ins></p>
 <p>You have to recode the printf() function from libc. The prototype of ft_printf() is:</p>
   <p> int ft_printf(const char *, ...);</p>
 
@@ -27,6 +27,6 @@ This exercise is a great opportunity to improve your programming skills. It will
 <p>• %% Prints a percent sign.</p>
 
 
-<p>Bonus part</p>
+<p><ins>Bonus part</ins></p>
 <p>• Manage any combination of the following flags: ’-0.’ and the field minimum width under all conversions.</p>
 <p>• Manage all the following flags: ’# +’ (Yes, one of them is a space)</p>
