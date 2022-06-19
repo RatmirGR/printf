@@ -1,10 +1,10 @@
 <h3>Project name:</h3>
 <h2> printf</h2>
 
-<img src="https://github.com/RatmirW/RatmirW/blob/main/images/task2.png" height="32"/><b>Project description:</b>
+<img src="https://github.com/RatmirW/RatmirW/blob/main/images/job-seeking2.png" height="32"/><b>Project description:</b>
 This exercise is a great opportunity to improve your programming skills. It will introduce you to variadic functions in C. The key to the success of ft_printf is well-structured and extensible code.
 
-<b>Task:</b>
+<img src="https://github.com/RatmirW/RatmirW/blob/main/images/task2.png" height="32"/><b>Task:</b>
 <p>You have to recode the printf() function from libc. The prototype of ft_printf() is:</p>
   <p> int ft_printf(const char *, ...);</p>
 
@@ -27,6 +27,6 @@ This exercise is a great opportunity to improve your programming skills. It will
 <p>• %% Prints a percent sign.</p>
 
 
-<p>Bonus part</p>
+<img src="https://github.com/RatmirW/RatmirW/blob/main/images/bonus2.png" height="32"/><p>Bonus part</p>
 <p>• Manage any combination of the following flags: ’-0.’ and the field minimum width under all conversions.</p>
 <p>• Manage all the following flags: ’# +’ (Yes, one of them is a space)</p>
