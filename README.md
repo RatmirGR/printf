@@ -28,6 +28,5 @@ This exercise is a great opportunity to improve your programming skills. It will
 
 
 <p>Bonus part</p>
-<p>• Manage any combination of the following flags: ’-0.’ and the field minimum width</p>
-under all conversions.</p>
+<p>• Manage any combination of the following flags: ’-0.’ and the field minimum width under all conversions.</p>
 <p>• Manage all the following flags: ’# +’ (Yes, one of them is a space)</p>
