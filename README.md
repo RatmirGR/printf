@@ -6,7 +6,7 @@ This exercise is a great opportunity to improve your programming skills. It will
 
 <b>Task:</b>
 <p>You have to recode the printf() function from libc. The prototype of ft_printf() is:</p>
-  <p>• int ft_printf(const char *, ...);</p>
+  <p> int ft_printf(const char *, ...);</p>
 
 <p>Here are the requirements:</p>
 <p>• Don’t implement the buffer management of the original printf().</p>
